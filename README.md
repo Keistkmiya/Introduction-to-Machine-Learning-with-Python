@@ -10,10 +10,26 @@ Repository ini dibuat untuk memenuhi **Tugas 1 (Pengayaan)** pada kelas Machine 
 ## Rangkuman Bab
 
 ### [Chapter 1: Introduction](./All_Chapter.ipynb)
-Bab ini merupakan pengenalan dasar Machine Learning. Saya mempelajari cara menggunakan library `scikit-learn` untuk mengolah dataset Iris. Fokus utamanya adalah membangun model klasifikasi pertama menggunakan algoritma **k-Nearest Neighbors (k-NN)** dan mengevaluasi performanya melalui pembagian data *training* dan *testing*.
+Pada bab ini, saya mempelajari konsep dasar Machine Learning dan alur kerja pembuatan model melalui studi kasus klasifikasi bunga Iris.
+
+**Library Utama yang Saya Gunakan:**
+* **scikit-learn**: Berisi algoritma machine learning yang saya gunakan.
+* **NumPy & Pandas**: Untuk pengolahan data angka dan tabel.
+* **Matplotlib**: Untuk visualisasi data.
 
 ### [Chapter 2: Supervised Learning](./All_Chapter.ipynb)
-Bab ini merupakan bagian terdalam yang membahas berbagai algoritma untuk memprediksi target berdasarkan data berlabel. Fokus utamanya adalah memahami keseimbangan antara *Overfitting* dan *Underfitting*.
+Bab ini merupakan bagian terdalam di mana saya mempelajari berbagai algoritma untuk memprediksi target berdasarkan data berlabel. Fokus utama saya adalah memahami keseimbangan antara *Overfitting* dan *Underfitting*.
+
+**Dua Tipe Utama yang Saya Pelajari:**
+1. **Classification (Klasifikasi)**: Memprediksi kategori (misal: menentukan jenis kanker).
+2. **Regression (Regresi)**: Memprediksi angka kontinu (misal: harga rumah).
+
+**Algoritma yang Saya Implementasikan:**
+* **k-Nearest Neighbors**: Algoritma berbasis jarak untuk klasifikasi dan regresi.
+* **Linear Models**: Saya menggunakan *Ordinary Least Squares*, teknik regularisasi (*Ridge* & *Lasso*), serta model klasifikasi seperti *Logistic Regression*.
+* **Decision Trees & Ensembles**: Saya menerapkan pohon keputusan serta model tingkat lanjut seperti *Random Forests* dan *Gradient Boosted Decision Trees* (GBDT).
+* **Kernelized SVM**: Saya menggunakan *RBF Kernel* untuk menangani pola data yang tidak bisa dipisahkan secara linear.
+* **Neural Networks**: Saya mempelajari dasar *Deep Learning* melalui *Multilayer Perceptrons* (MLP) dan pentingnya penskalaan data.
 
 ### [Chapter 3: Unsupervised Learning and Preprocessing](./All_Chapter.ipynb)
 Dalam bab ini, saya mengeksplorasi teknik untuk menemukan pola dalam data yang tidak memiliki label. Saya mempelajari bagaimana melakukan transformasi data dan mengelompokkan data berdasarkan kemiripan strukturnya.
