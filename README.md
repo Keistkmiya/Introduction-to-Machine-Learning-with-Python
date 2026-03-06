@@ -9,10 +9,10 @@ Repository ini dibuat untuk memenuhi **Tugas 1 (Pengayaan)** pada kelas Machine 
 
 ## Rangkuman Bab
 
-### [Chapter 1: Introduction](./Chapter_01_Introduction.ipynb)
+### [Chapter 1: Introduction](./All_Chapter.ipynb)
 Bab ini merupakan pengenalan dasar Machine Learning. Saya mempelajari cara menggunakan library `scikit-learn` untuk mengolah dataset Iris. Fokus utamanya adalah membangun model klasifikasi pertama menggunakan algoritma **k-Nearest Neighbors (k-NN)** dan mengevaluasi performanya melalui pembagian data *training* dan *testing*.
 
-### [Chapter 2: Supervised Learning](./Chapter_02_Supervised_Learning.ipynb)
+### [Chapter 2: Supervised Learning](./All_Chapter.ipynb)
 Bab ini merupakan bagian terdalam yang membahas berbagai algoritma untuk memprediksi target berdasarkan data berlabel. Fokus utamanya adalah memahami keseimbangan antara *Overfitting* dan *Underfitting*.
 
 **Poin-poin Penting:**
