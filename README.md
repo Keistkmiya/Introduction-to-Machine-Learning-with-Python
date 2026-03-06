@@ -3,9 +3,9 @@
 Repository ini dibuat untuk memenuhi **Tugas 1 (Pengayaan)** pada kelas Machine Learning dan Deep Learning. Isinya adalah reproduksi kode dan pendalaman teori dari buku *Introduction to Machine Learning with Python* karya Andreas C. Müller & Sarah Guido (O'Reilly).
 
 ## Identitas
-- **Nama:** [Isi Nama Lengkap Kamu]
-- **NIM:** [Isi NIM Kamu]
-- **Kelas:** [Isi Kelas Kamu]
+- **Nama:** [Faddillah Putra Ibnulani]
+- **NIM:** [1103220130]
+- **Kelas:** [TK-46-02]
 
 ## Daftar Isi
 Berikut adalah daftar notebook hasil reproduksi kode dari setiap bab:
