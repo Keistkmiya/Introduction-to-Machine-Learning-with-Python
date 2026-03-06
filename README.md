@@ -3,19 +3,19 @@
 Repository ini dibuat untuk memenuhi **Tugas 1 (Pengayaan)** pada kelas Machine Learning dan Deep Learning. Isinya adalah reproduksi kode dan pendalaman teori dari buku *Introduction to Machine Learning with Python* karya Andreas C. Müller & Sarah Guido (O'Reilly).
 
 ## Identitas
-- **Nama:** [Faddillah Putra Ibnulani]
-- **NIM:** [1103220130]
-- **Kelas:** [TK-46-02]
+- **Nama:** Kei [Ganti dengan Nama Lengkap]
+- **NIM:** [Isi NIM Kamu]
+- **Kelas:** [Isi Kelas Kamu]
 
-## Daftar Isi
-Berikut adalah daftar notebook hasil reproduksi kode dari setiap bab:
+## Rangkuman Bab
 
-1. **Chapter 1: Introduction**
-   - Pengenalan Machine Learning
-   - Library: scikit-learn, NumPy, pandas, matplotlib
-   - Kasus: Klasifikasi Bunga Iris (The Iris Dataset)
-2. **Chapter 2: Supervised Learning** (Coming Soon)
-3. **Chapter 3: Unsupervised Learning** (Coming Soon)
+### [Chapter 1: Introduction](./Chapter_01_Introduction.ipynb)
+Bab ini merupakan pengenalan dasar Machine Learning. Saya mempelajari cara menggunakan library `scikit-learn` untuk mengolah dataset Iris. Fokus utamanya adalah membangun model klasifikasi pertama menggunakan algoritma **k-Nearest Neighbors (k-NN)** dan mengevaluasi performanya melalui pembagian data *training* dan *testing*.
+
+### Chapter 2: Supervised Learning
+*(Status: In Progress)*
+
+---
 
 ## Cara Menggunakan
-Setiap file notebook (`.ipynb`) dapat dibuka langsung di GitHub atau dijalankan melalui Google Colab dengan mengklik tombol "Open in Colab" yang tersedia di dalam file.
+Setiap file notebook (`.ipynb`) dapat dibuka langsung di GitHub atau dijalankan melalui Google Colab.
